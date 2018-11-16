@@ -7,6 +7,7 @@ public class MoveMap : MonoBehaviour
 
     public int BeatPerMinute;
     public bool hideSubGridAtStart;
+    public string toto;
 
     private const float CONSTANT = 0.01665f;
 
